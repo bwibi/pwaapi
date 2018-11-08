@@ -1,0 +1,23 @@
+{
+"products":[
+{"id":1,"name":"Duck, blue","category":"Goldenrod"},
+{"id":2,"name":"Galah","category":"Turquoise"},
+{"id":3,"name":"Green-winged trumpeter","category":"Turquoise"},
+{"id":4,"name":"Squirrel glider","category":"Aquamarine"},
+{"id":5,"name":"Gazer, sun","category":"Aquamarine"},
+{"id":6,"name":"Woolly-necked stork","category":"Indigo"},
+{"id":7,"name":"Wallaby, dama","category":"Crimson"},
+{"id":8,"name":"Mexican boa","category":"Crimson"},
+{"id":9,"name":"Quoll, eastern","category":"Goldenrod"},
+{"id":10,"name":"Hartebeest, coke's","category":"Purple"},
+{"id":11,"name":"North American beaver","category":"Crimson"},
+{"id":12,"name":"Black-crowned crane","category":"Crimson"},
+{"id":13,"name":"Purple moorhen","category":"Aquamarine"},
+{"id":14,"name":"Goose, egyptian","category":"Turquoise"},
+{"id":15,"name":"Dog, bush","category":"Khaki"},
+{"id":16,"name":"Serval","category":"Purple"},
+{"id":17,"name":"Guanaco","category":"Pink"},
+{"id":18,"name":"Sugar glider","category":"Red"},
+{"id":19,"name":"Bunting, crested","category":"Khaki"},
+{"id":20,"name":"Whale, baleen","category":"Puce"}]
+}
